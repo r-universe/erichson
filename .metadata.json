@@ -1,0 +1,10 @@
+[
+  {
+    "package": "rsvd",
+    "oncran": true
+  },
+  {
+    "package": "sparsepca",
+    "oncran": true
+  }
+]
