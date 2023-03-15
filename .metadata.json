@@ -1,10 +1,10 @@
 [
   {
-    "package": "rsvd",
+    "package": "sparsepca",
     "oncran": true
   },
   {
-    "package": "sparsepca",
+    "package": "rsvd",
     "oncran": true
   }
 ]
